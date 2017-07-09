@@ -1,3 +1,5 @@
+# Udacity's Self-Driving Car Engineer Nanodegre, Term 2, Project 3 - Particle Filter (Localization)
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
